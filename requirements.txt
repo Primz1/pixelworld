@@ -1,0 +1,5 @@
+torch>=2.2
+numpy>=1.24
+pillow>=9.0
+pygame>=2.5
+pytest>=7.0
